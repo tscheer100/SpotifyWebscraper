@@ -14,7 +14,6 @@ for h3 in titles:
     print(h3.text)
 
 
-
 print(titles.get_text())
 
 
